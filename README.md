@@ -7,6 +7,16 @@ The template list below will be updated as new ones are added.
 ## Assets
 <a href="assets/videos/assets%20xd%20church%20type%201.mp4" target="_blank">View the assets example</a> for church type 1
 
+Assets used
+
+![Assets](assets/gifs/assets.gif)
+
+Mobile view
+![Mobile view](assets/gifs/mobile.gif)
+
+Web view
+![Web view](assets/gifs/web.gif)
+
 ## Included Templates
 
 ### 1. Church Type 1
