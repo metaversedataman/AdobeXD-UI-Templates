@@ -23,7 +23,7 @@ Web view
 
 ### 1. Church Type 1
 
-Sleek design for Church and religious bodies, with main focus on accessibility to notifications on news and events. The color scheme: blue and green. This design was created during one of our commissioned projects.
+Sleek design for Church and religious bodies, with main focus on accessibility to notifications on news and events. The color scheme: blue and green. This design was created during one of our commissioned projects. This Project includes a minimum of 24 pages.
 
 ![church type 1](assets/images/church%20type%201%20_home.png)
 
@@ -45,7 +45,9 @@ Second variant of Church template series.
 # Included Pages
 This section is updated as the more additions are made in the available templates.
 
-:calendar:11th July, 2022: Updated Template 1 with Profile, Login, Sign up pages.
+:calendar: - 11th July, 2022: Updated Template 1 with 3 pages: Profile, Login, & Sign Up. Duration: 4 hours.
+
+:calendar: - 11th July, 2022: Updated Template 1 with 8 pages: Photo Gallery Categories, Photo Gallery Listing, Photo Gallery Viewer, Video Gallery Categories, Video Gallery Listing, Video Gallery Viewer, Audio Gallery Categories, & Audio Gallery Viewer. Duration: 5 hours 30 minutes. [View Media Updates][7]
 
 ![Profile](assets/images/church%20type%201%20_profile.png)
 Profile Page
@@ -55,6 +57,33 @@ Login Page
 
 ![Sign Up](assets/images/church%20type%201%20_signup.png)
 Sign Up Page
+
+#### Media Updates
+
+![Photo Gallery Categories](assets/images/church%20type%201%20_photo-gallery-categories.png)
+Photo Gallery Categories
+
+![Photo Gallery Listing](assets/images/church%20type%201%20_photo-gallery-listing.png)
+Photo Gallery Listing
+
+![Photo Gallery Viewer](assets/images/church%20type%201%20_photo-gallery-viewer.png)
+Photo Gallery Viewer
+
+![Video Gallery Categories](assets/images/church%20type%201%20_video-categories.png)
+Video Gallery Categories
+
+![Video Gallery Listing](assets/images/church%20type%201%20_video-listing.png)
+Video Gallery Listing
+
+![Video Gallery Viewer](assets/images/church%20type%201%20_video-viewer.png)
+Video Gallery Viewer
+
+![Audio Gallery Categories](assets/images/church%20type%201%20_audio-categories.png)
+Audio Gallery Categories
+
+![Audio Gallery Listener](assets/images/church%20type%201%20_audio-listener.png)
+Audio Gallery Listener
+
 
 # Creation Dates
 
@@ -71,3 +100,4 @@ Thank you for visiting. If you found this repository helpful, please do star it.
   [4]: templates/xd_church_type_2_home.xd
   [5]: assets/videos/xd%20church%20type%202%20_home-mobile.mp4
   [6]: assets/videos/xd%20church%20type%202%20_home-web.mp4
+  [7]: #media-updates
