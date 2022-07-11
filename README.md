@@ -12,9 +12,11 @@ Assets used
 ![Assets](assets/gifs/assets.gif)
 
 Mobile view
+
 ![Mobile view](assets/gifs/mobile.gif)
 
 Web view
+
 ![Web view](assets/gifs/web.gif)
 
 ## Included Templates
@@ -29,6 +31,7 @@ Sleek design for Church and religious bodies, with main focus on accessibility t
 
 [View Mobile Demo][2] | [View Web Demo][3]
 
+
 ### 2. Church Type 2
 
 Second variant of Church template series.
@@ -39,7 +42,19 @@ Second variant of Church template series.
 
 [View Mobile Demo][5] | [View Web Demo][6]
 
+# Included Pages
+This section is updated as the more additions are made in the available templates.
 
+:calendar:11th July, 2022: Updated Template 1 with Profile, Login, Sign up pages.
+
+![Profile](assets/images/church%20type%201%20_profile.png)
+Profile Page
+
+![](assets/images/church%20type%201%20_login.png)
+Login Page
+
+![Sign Up](assets/images/church%20type%201%20_signup.png)
+Sign Up Page
 
 # Creation Dates
 
